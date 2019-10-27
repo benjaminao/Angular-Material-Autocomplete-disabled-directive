@@ -1,5 +1,7 @@
 # AutocompleteDisabled
 
+<a target="_blank" rel="noopener noreferrer" href="https://repository-images.githubusercontent.com/217877021/5d043480-f8b0-11e9-8ed7-c068809c8ba7"><img src="https://repository-images.githubusercontent.com/217877021/5d043480-f8b0-11e9-8ed7-c068809c8ba7" alt="A Start B" style="max-width:100%;"></a>
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
 
 ## Development server
